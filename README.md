@@ -14,6 +14,6 @@ InsertionSort(A)  <br>
       A[j+1]=A[j] <br>
       j=j-1 <br>
      A[j+1]=key <br>
-     end while
-  end for
+     end while <br>
+  end for <br>
 
